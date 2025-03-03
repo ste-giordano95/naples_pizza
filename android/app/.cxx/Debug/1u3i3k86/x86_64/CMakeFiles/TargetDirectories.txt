@@ -1,0 +1,2 @@
+C:/StudioProjects/naples_pizza/android/app/.cxx/Debug/1u3i3k86/x86_64/CMakeFiles/edit_cache.dir
+C:/StudioProjects/naples_pizza/android/app/.cxx/Debug/1u3i3k86/x86_64/CMakeFiles/rebuild_cache.dir
